@@ -1,0 +1,14 @@
+X:\Samael devlight\practico_clase4\bin\Debug\net9.0\practico_clase4.exe
+X:\Samael devlight\practico_clase4\bin\Debug\net9.0\practico_clase4.deps.json
+X:\Samael devlight\practico_clase4\bin\Debug\net9.0\practico_clase4.runtimeconfig.json
+X:\Samael devlight\practico_clase4\bin\Debug\net9.0\practico_clase4.dll
+X:\Samael devlight\practico_clase4\bin\Debug\net9.0\practico_clase4.pdb
+X:\Samael devlight\practico_clase4\obj\Debug\net9.0\practico_clase4.GeneratedMSBuildEditorConfig.editorconfig
+X:\Samael devlight\practico_clase4\obj\Debug\net9.0\practico_clase4.AssemblyInfoInputs.cache
+X:\Samael devlight\practico_clase4\obj\Debug\net9.0\practico_clase4.AssemblyInfo.cs
+X:\Samael devlight\practico_clase4\obj\Debug\net9.0\practico_clase4.csproj.CoreCompileInputs.cache
+X:\Samael devlight\practico_clase4\obj\Debug\net9.0\practico_clase4.dll
+X:\Samael devlight\practico_clase4\obj\Debug\net9.0\refint\practico_clase4.dll
+X:\Samael devlight\practico_clase4\obj\Debug\net9.0\practico_clase4.pdb
+X:\Samael devlight\practico_clase4\obj\Debug\net9.0\practico_clase4.genruntimeconfig.cache
+X:\Samael devlight\practico_clase4\obj\Debug\net9.0\ref\practico_clase4.dll
